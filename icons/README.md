@@ -2,6 +2,6 @@
 
 Firefox extension [KELAn](http://kela.fi/) verkkopalvelussa lomakkeiden helpompaan täyttämiseen.
 
-Tarkoituksena olisi toimia työttömyyspäivärahalle, ja sovitellulle päivärahalle. Kun lomakkeesta tulee vastaan se sivu, jossa pitää kertoa mitä olet minäkin päivänä tehnyt, niin ilmestyy sivulle myös uusi nappula jonka kautta voit nuo tiedot täyttää nopeammin.
+Toimii työttömyyspäivärahaa nostaessa. Kun saavutat sivun, jolla Kela kyselee mitä olet minäkin päivänä tehnyt ja kuinka kauan, tulee Kelan logon päälle nappi josta saa ikkunan auki. Tässä ikkunassa voit määritellä päivät, selitteen ja tunnit ja täyttää koko formin yhdellä napilla.
 
-Nykyisellään tunnistaa oikean sivun, ainakin työttömyyspäivärahalle, ja lisää formin sivulle, mutta se formi ei vielä itsessään tee mitään...
+![screenshot](screenshot.png)
