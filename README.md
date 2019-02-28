@@ -1,4 +1,4 @@
-# Kelabingo v 0.1
+# Kelabingo v 0.5
 
 Firefox extension [KELAn](http://kela.fi/) verkkopalvelussa lomakkeiden helpompaan täyttämiseen.
 
